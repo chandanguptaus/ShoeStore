@@ -1,0 +1,12 @@
+D:\Learning\Coding\ShoeStore\Shoes.Domain\bin\Debug\net5.0\Shoes.Domain.deps.json
+D:\Learning\Coding\ShoeStore\Shoes.Domain\bin\Debug\net5.0\Shoes.Domain.dll
+D:\Learning\Coding\ShoeStore\Shoes.Domain\bin\Debug\net5.0\ref\Shoes.Domain.dll
+D:\Learning\Coding\ShoeStore\Shoes.Domain\bin\Debug\net5.0\Shoes.Domain.pdb
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.csprojAssemblyReference.cache
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.AssemblyInfoInputs.cache
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.AssemblyInfo.cs
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.dll
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\ref\Shoes.Domain.dll
+D:\Learning\Coding\ShoeStore\Shoes.Domain\obj\Debug\net5.0\Shoes.Domain.pdb

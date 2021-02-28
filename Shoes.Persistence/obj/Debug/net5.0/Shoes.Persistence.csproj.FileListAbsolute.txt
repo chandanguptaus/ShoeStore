@@ -1,0 +1,15 @@
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\bin\Debug\net5.0\Shoes.Persistence.deps.json
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\bin\Debug\net5.0\Shoes.Persistence.dll
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\bin\Debug\net5.0\ref\Shoes.Persistence.dll
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\bin\Debug\net5.0\Shoes.Persistence.pdb
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.csprojAssemblyReference.cache
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.AssemblyInfoInputs.cache
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.AssemblyInfo.cs
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.csproj.CoreCompileInputs.cache
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.dll
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\ref\Shoes.Persistence.dll
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.pdb
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\bin\Debug\net5.0\Shoes.Domain.dll
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\bin\Debug\net5.0\Shoes.Domain.pdb
+D:\Learning\Coding\ShoeStore\Shoes.Persistence\obj\Debug\net5.0\Shoes.Persistence.csproj.CopyComplete
